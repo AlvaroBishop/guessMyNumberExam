@@ -1,0 +1,18 @@
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: #94ffd3;
+    display: flex;
+    text-align: center;
+}
+
+.list div {
+    display: flex;
+    padding:0  1rem;
+}
